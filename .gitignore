@@ -1,0 +1,9 @@
+.vscode/
+.idea
+.vscode
+*.pyc
+*.MP4
+*.mp4
+events*
+__pycache__/
+checkpoint/
