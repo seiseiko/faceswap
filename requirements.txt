@@ -1,0 +1,5 @@
+datetime
+argparse
+imutils
+opencv-python
+face_recognition
